@@ -1,6 +1,8 @@
 # React Clock
 A sleek, responsive clock application built with React, Vite, and date-fns. 
 This project demonstrates clean UI design using Tailwind CSS and precise date formatting.
+
+
 <img width="628" height="455" alt="image" src="https://github.com/user-attachments/assets/78a49dc3-7178-4c06-bfd9-61a647661c40" />
 
 
